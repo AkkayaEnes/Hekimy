@@ -4,7 +4,7 @@ Hi 👋 My name is Enes Akkaya
 Web Developer and Designer
 --------------------------
 
-Bilgisayar programcılığı öğrencisi ve tasarım aşığı Enes Akkaya. Ostim Teknik Üniversitesi Meslek Yüksekokulu Bilgisayar Programcılığı bölümünde bilgisayar bilimleri derslerine katılmaya başladığımda programlama öğrenmeye başladım. Web geliştirme ile ilgileniyorum ve web tasarımı ve geliştirme ile ilgili çeşitli teknolojilerdeki becerilerimi geliştiriyorum. Web geliştirme için öğrendiğim ilk teknoloji Php programlama dilidir. Tam yığın geliştirmeyle ilgilendiğim için şu anda daha çok ön uç geliştirmeye odaklanıyorum.
+I am Enes Akkaya, a computer programming student and a design lover. I began to learn programming when I started to attend computer science classes at the Computer Programming Department of Ostim Teknik Üniversitesi Vocational School. I am interested in web development and have been improving my skills in various technologies related to web design and development. The first technology I learned for web development is the Php programming language. As I am interested in full-stack development, I am currently focused more on front-end development.
 
 * 🌍  I'm based in Ankara
 * ✉️  You can contact me at [akkayaakkaya789@gmail.com](mailto:akkayaakkaya789@gmail.com)

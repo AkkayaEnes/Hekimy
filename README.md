@@ -8,7 +8,7 @@ I am Enes Akkaya, a computer programming student and a design lover. I began to 
 
 * 🌍  I'm based in Ankara
 * ✉️  You can contact me at [akkayaakkaya789@gmail.com](mailto:akkayaakkaya789@gmail.com)
-* 🧠  I'm learning Javascript and Swift
+* 🧠  I'm learning Flutter and Swift
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  my co-worker is a cat, but don't tell anyone,
 

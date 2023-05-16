@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **wedding and organization-themed flutter app**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Dart, Flutter**
 
